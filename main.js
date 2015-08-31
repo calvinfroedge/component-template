@@ -16,18 +16,18 @@
 }({
   component: function(){
 
-    return function(options){
-      /*
-       * Creates color picker component and adds to page
-       */
-      var Component = function(){
 
-        //Public API for the component
-        return {
-        }
-      };
+    /*
+     * Creates component and adds to page
+     */
+    var Component = function(){
 
-      return Component(options);
-    }
+      //Public API for the component
+      return {
+      }
+    };
+
+    return Component;
+
   }
 }));
