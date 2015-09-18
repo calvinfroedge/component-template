@@ -1,17 +1,17 @@
 {
-  name: "",
-  version: "0.0.1",
-  authors: [
+  "name": "",
+  "version": "0.0.1",
+  "authors": [
     ""
   ],
-  license: "MIT",
-  ignore: [
+  "license": "MIT",
+  "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
   ],
-  dependencies: {
+  "dependencies": {
   }
 }
